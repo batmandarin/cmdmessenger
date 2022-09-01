@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace BasicControls
+namespace controls
 {
     static class Program
     {
@@ -16,7 +16,7 @@ namespace BasicControls
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new InputForm());
+            Application.Run(new Form1());
         }
     }
 }
