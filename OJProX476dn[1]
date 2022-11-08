@@ -1,0 +1,1001 @@
+<!DOCTYPE html>
+<html country="US" lang="en" dir="ltr">
+<head>
+    
+	<meta content="IE=edge" http-equiv="X-UA-Compatible" />
+	<meta name="company_code" content="hpi" />
+	<meta content="IPG" name="bu" />
+	<meta content="text/html; charset=UTF-8" http-equiv="Content-Type" />
+	<!-- <meta content="Welcome to the simplest way to setup your printer from a computer or mobile device. Easily download software, connect to a network, and print across devices." name="description" /> -->
+	<meta name="description" content="Welcome to the HP® Official website to setup your printer. Get started with your new printer by downloading the software. You will be able to connect the printer to a network and print across devices." />
+	<meta content="hpexpnontridion" name="hp_design_version" />
+	<meta content="hp drivers, hp driver, hp downloads, hp download drivers, hp printer drivers, hp printers drivers, hp scanner drivers, hp printer driver, hp print drivers, hp printer drivers download" name="keywords" />
+	<meta content="support.drivers" name="lifecycle" />
+	<meta content="Solutions" name="page_content" />
+	<meta content="follow, index" name="robots" />
+	<meta content="Segment Neutral" name="segment" />
+	<meta name="target_country" content="us" />
+	<meta content=" R11849 " name="web_section_id" />
+	<meta content='True' name='HandheldFriendly' />
+	<meta content="width=device-width, initial-scale=1.0" name="viewport" />	
+	
+	<!-- CSS  -->
+	<link rel="stylesheet" href="/resources/assets/css/page/123fontstyles.css;jsessionid=A924545C43D03F6FD09AD240BECE8EE1" media="screen" /> 
+	<link rel="stylesheet" href="/resources/assets/dist/application.min.css;jsessionid=A924545C43D03F6FD09AD240BECE8EE1" media="screen" />
+	<link rel="stylesheet" type="text/css" href="/resources/assets/css/vendor/jquery.typeahead.min.css;jsessionid=A924545C43D03F6FD09AD240BECE8EE1" />
+	
+	<!--  JavaScript -->
+	<script type="text/javascript" src="/resources/assets/js/vendor/jquery/jquery-1.8.js;jsessionid=A924545C43D03F6FD09AD240BECE8EE1"></script>
+	<!--  This script has very poor performance and downloads over 20 dependencies from the footer script -->
+	<script type="text/javascript" src="/resources/assets/js/vendor/jquery/can.jquery-1.8.js;jsessionid=A924545C43D03F6FD09AD240BECE8EE1" defer="defer"></script>
+	<script async src="//www.hp.com/cma/ng/lib/exceptions/privacy-banner.js"></script>
+	<script type="text/javascript" src="/resources/assets/js/page/tooltipster.main.min.js;jsessionid=A924545C43D03F6FD09AD240BECE8EE1" defer="defer"></script>
+	<script type="text/javascript" src="/resources/assets/js/page/tooltipster.bundle.min.js;jsessionid=A924545C43D03F6FD09AD240BECE8EE1" defer="defer"></script>
+	
+	<script type="text/javascript" src="https://www8.hp.com/caas/header-footer/us/en/default/latest.r?contentType=js&amp;hide_country_selector=true" defer="defer"></script>
+	<script type="text/javascript" src="/resources/assets/js/vendor/base.min.js;jsessionid=A924545C43D03F6FD09AD240BECE8EE1" defer="defer"></script>
+	<script type="text/javascript" src="/resources/assets/dist/application.min.js;jsessionid=A924545C43D03F6FD09AD240BECE8EE1" defer="defer"></script>
+	
+	<script type="text/javascript"> //UDL Analytics - GTM tag
+		(function(w,d,s,l,i){
+			w[l]=w[l]||[];w[l].push({
+				'gtm.start':new Date().getTime(),event:'gtm.js'
+			});
+			var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&amp;l='+l:'';
+			j.async=true;
+			j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+		}) (window,document, 'script','dataLayer','GTM-MZXB4R4');
+	</script>
+
+    <title>123.hp.com - Printer setup from the HP® Official site</title>
+    <link rel="stylesheet" href="/resources/assets/css/page/flex-design.css;jsessionid=A924545C43D03F6FD09AD240BECE8EE1" type="text/css"/>
+    <link rel="stylesheet" href="/resources/assets/css/page/unsupported-os.css;jsessionid=A924545C43D03F6FD09AD240BECE8EE1" type="text/css"/>
+    <script defer="defer" src="/resources/assets/js/page/download.js;jsessionid=A924545C43D03F6FD09AD240BECE8EE1" type="text/javascript"></script>
+    <script src="https://cdn.optimizely.com/js/11773710518.js"></script>
+    <script type="text/javascript">
+		var swlsErrorEndPoint = null;
+		var pageName = 'unsupported_os';
+
+		//UDL Analytics - data layer
+		dataLayer.push({
+			event: 'e_pageView',
+			pageNameL5: pageName,
+		});
+    </script>
+</head>
+<body>
+<div id="basic-header" class="header-123 hidden">
+		<div class="background background_ext">&nbsp;</div>
+		<div class="header_wrapper">
+			<div class="header_container header_container_ext header_clf">
+				<div id="logo" class="hp-logo">
+					<a class="header_logo link_metrics"
+					   href="/us/en/;jsessionid=A924545C43D03F6FD09AD240BECE8EE1"
+					   title="HP® 123.HP.COM | HP Printer Setup Software Download Site"
+					   tabindex="2"><img
+							src="/resources/assets/img/hp-logo.gif;jsessionid=A924545C43D03F6FD09AD240BECE8EE1"
+							alt="HP® 123.HP.COM | HP Printer Setup Software Download Site"
+							class="header_printable" aria-hidden="true" /></a>
+				</div>
+			</div>
+		</div>
+	</div>
+<div>
+    <input id="languageDirection" value="ltr" type="hidden"/>
+    <input id="deviceId" value="ojprox476dn" type="hidden"/>
+    <input id="localePath" value="" type="hidden"/>
+    <input id="deviceName" value="" type="hidden"/>
+    <input id="swlsErrorLevel" value="" type="hidden"/>
+    <input id="gotoHPUrl" value="" type="hidden"/>
+    <input id="printerSetupUrl" value="https://support.hp.com/us-en/printer-setup" type="hidden"/>
+    <input id="novelliSetupUrl" value="" type="hidden"/>
+</div>
+<div id="one23-overlay"></div>
+<main class="vertical">
+    <div class="standard-bg horizontal centered">
+        <div class="main-content vertical">
+            <div class="page-header vertical centered shrink-off">We’re sorry, we don’t support this browser</div>
+            <div class="horizontal space-between wrap-sm">
+                <div class="horizontal shrink-off">
+                    <img class="unsupported-printer wrap-sm-border" src="/resources/assets/img/printer_icon_gray_setup.png">
+                    <div class="bordered-qr-code img-container wrap-sm-border">
+                        <img src="/resources/assets/img/123-qr-code.png">
+                    </div>
+                    <div class="appstore-images vertical space-around wrap-sm-border">
+                        <img class="appstore-badge" src="/resources/assets/img/app_store/android/en.png">
+                        <img class="appstore-badge" src="/resources/assets/img/app_store/ios/en.svg">
+                    </div>
+                </div>
+                <div class="unsupported-body text-wrap">Install HP Smart on a mobile device for the fastest printer setup. <b>Scan the QR code to get started.</b></div>
+            </div>
+            <div class="unsupported-margin"></div>
+            <div class="unsupported-margin">HP Smart is also available for Windows and macOS. You can also upgrade this browser or switch to a different browser.</div>
+            
+        </div>
+    </div>
+    <div class="horizontal centered">
+        <div class="main-content vertical">
+            <div class="support-list">
+                
+                <div class="support-item">
+                    <div class="support-header horizontal">
+                        <div class="support-header-icon">
+                            <img src="/resources/assets/img/support_icon_blue.png;jsessionid=A924545C43D03F6FD09AD240BECE8EE1">
+                        </div>
+                        <div class="text-content">Need additional help with setup? Visit <a id="support-url">HP Support</a></div>
+                    </div>
+                </div>
+            </div>
+            <div id="country-selector-container">
+    <div id="country-selector">
+     <i id="tooltip-image" class="sprite-sheet-flags sprite-flag sprite-flag-us"></i>
+      <a id="tooltip-text" class="tooltip country-tooltip">United States</a>   
+      <div id="country-selector-tooltip"  class="down-tooltip" style="left: 0px; bottom: 35px; display: none;">
+          <div id="supported-countries">
+		<div>
+			<div>
+				<table>
+
+					<!-- Row 1 -->
+					<tr>
+						<td id="country-item">
+    <div>
+      <i class="sprite-sheet-flags sprite-flag sprite-flag-au"></i>
+      <a href="/au/en/devices/ojprox476dn;jsessionid=A924545C43D03F6FD09AD240BECE8EE1"
+        id="au_en">Australia</a>
+    </div>
+  </td>
+						<td id="country-item">
+    <div>
+      <i class="sprite-sheet-flags sprite-flag sprite-flag-in"></i>
+      <a href="/in/en/devices/ojprox476dn;jsessionid=A924545C43D03F6FD09AD240BECE8EE1"
+        id="in_en">India</a>
+    </div>
+  </td>
+						<td id="country-item">
+    <div>
+      <i class="sprite-sheet-flags sprite-flag sprite-flag-pl"></i>
+      <a href="/pl/pl/devices/ojprox476dn;jsessionid=A924545C43D03F6FD09AD240BECE8EE1"
+        id="pl_pl">Polska</a>
+    </div>
+  </td>
+						<td id="country-item">
+    <div>
+      <i class="sprite-sheet-flags sprite-flag sprite-flag-us"></i>
+      <a href="/us/en/devices/ojprox476dn;jsessionid=A924545C43D03F6FD09AD240BECE8EE1"
+        id="us_en">United States</a>
+    </div>
+  </td>
+					</tr>
+					
+					<!-- Row 2 -->
+					<tr>
+						<td id="country-item">
+    <div>
+      <i class="sprite-sheet-flags sprite-flag sprite-flag-at"></i>
+      <a href="/at/de/devices/ojprox476dn;jsessionid=A924545C43D03F6FD09AD240BECE8EE1"
+        id="at_de">Austria</a>
+    </div>
+  </td>
+						<td id="country-item">
+    <div>
+      <i class="sprite-sheet-flags sprite-flag sprite-flag-ie"></i>
+      <a href="/ie/en/devices/ojprox476dn;jsessionid=A924545C43D03F6FD09AD240BECE8EE1"
+        id="ie_en">Ireland</a>
+    </div>
+  </td>
+						<td id="country-item">
+    <div>
+      <i class="sprite-sheet-flags sprite-flag sprite-flag-pt"></i>
+      <a href="/pt/pt/devices/ojprox476dn;jsessionid=A924545C43D03F6FD09AD240BECE8EE1"
+        id="pt_pt">Portugal</a>
+    </div>
+  </td>
+						<td id="country-item">
+    <div>
+      <i class="sprite-sheet-flags sprite-flag sprite-flag-bg"></i>
+      <a href="/bg/bg/devices/ojprox476dn;jsessionid=A924545C43D03F6FD09AD240BECE8EE1"
+        id="bg_bg">България</a>
+    </div>
+  </td>
+					</tr>
+					
+					<!-- Row 3 -->
+					<tr>
+						<td id="country-item">
+    <div>
+      <i class="sprite-sheet-flags sprite-flag sprite-flag-be"></i>
+      <a href="/be/nl/devices/ojprox476dn;jsessionid=A924545C43D03F6FD09AD240BECE8EE1"
+        id="be_nl">België</a>
+    </div>
+  </td>
+						<td id="country-item">
+    <div>
+      <i class="sprite-sheet-flags sprite-flag sprite-flag-it"></i>
+      <a href="/it/it/devices/ojprox476dn;jsessionid=A924545C43D03F6FD09AD240BECE8EE1"
+        id="it_it">Italia</a>
+    </div>
+  </td>
+						<td id="country-item">
+    <div>
+      <i class="sprite-sheet-flags sprite-flag sprite-flag-pr"></i>
+      <a href="/pr/en/devices/ojprox476dn;jsessionid=A924545C43D03F6FD09AD240BECE8EE1"
+        id="pr_en">Puerto Rico</a>
+    </div>
+  </td>
+						<td id="country-item">
+    <div>
+      <i class="sprite-sheet-flags sprite-flag sprite-flag-gr"></i>
+      <a href="/gr/el/devices/ojprox476dn;jsessionid=A924545C43D03F6FD09AD240BECE8EE1"
+        id="gr_el">Ελλάδα</a>
+    </div>
+  </td>
+					</tr>
+					
+					<!-- Row 4 -->
+					<tr>
+						<td id="country-item">
+    <div>
+      <i class="sprite-sheet-flags sprite-flag sprite-flag-be"></i>
+      <a href="/be/fr/devices/ojprox476dn;jsessionid=A924545C43D03F6FD09AD240BECE8EE1"
+        id="be_fr">Belgique</a>
+    </div>
+  </td>
+						<td id="country-item">
+    <div>
+      <i class="sprite-sheet-flags sprite-flag sprite-flag-lv"></i>
+      <a href="/lv/lv/devices/ojprox476dn;jsessionid=A924545C43D03F6FD09AD240BECE8EE1"
+        id="lv_lv">Latvija</a>
+    </div>
+  </td>
+						<td id="country-item">
+    <div>
+      <i class="sprite-sheet-flags sprite-flag sprite-flag-ro"></i>
+      <a href="/ro/ro/devices/ojprox476dn;jsessionid=A924545C43D03F6FD09AD240BECE8EE1"
+        id="ro_ro">România</a>
+    </div>
+  </td>
+						<td id="country-item">
+    <div>
+      <i class="sprite-sheet-flags sprite-flag sprite-flag-cy"></i>
+      <a href="/cy/el/devices/ojprox476dn;jsessionid=A924545C43D03F6FD09AD240BECE8EE1"
+        id="cy_el">Κύπρος</a>
+    </div>
+  </td>
+					</tr>
+					
+					<!-- Row 5 -->
+					<tr>
+						<td id="country-item">
+    <div>
+      <i class="sprite-sheet-flags sprite-flag sprite-flag-br"></i>
+      <a href="/br/pt/devices/ojprox476dn;jsessionid=A924545C43D03F6FD09AD240BECE8EE1"
+        id="br_pt">Brasil</a>
+    </div>
+  </td>
+						<td id="country-item">
+    <div>
+      <i class="sprite-sheet-flags sprite-flag sprite-flag-lt"></i>
+      <a href="/lt/lt/devices/ojprox476dn;jsessionid=A924545C43D03F6FD09AD240BECE8EE1"
+        id="lt_lt">Lietuva</a>
+    </div>
+  </td>
+						<td id="country-item">
+    <div>
+      <i class="sprite-sheet-flags sprite-flag sprite-flag-ch"></i>
+      <a href="/ch/de/devices/ojprox476dn;jsessionid=A924545C43D03F6FD09AD240BECE8EE1"
+        id="ch_de">Schweiz</a>
+    </div>
+  </td>
+						<td id="country-item">
+    <div>
+      <i class="sprite-sheet-flags sprite-flag sprite-flag-ru"></i>
+      <a href="/ru/ru/devices/ojprox476dn;jsessionid=A924545C43D03F6FD09AD240BECE8EE1"
+        id="ru_ru">Россия</a>
+    </div>
+  </td>
+					</tr>
+						
+					<!-- Row 6 -->
+					<tr>
+						<td id="country-item">
+    <div>
+      <i class="sprite-sheet-flags sprite-flag sprite-flag-ca"></i>
+      <a href="/ca/en/devices/ojprox476dn;jsessionid=A924545C43D03F6FD09AD240BECE8EE1"
+        id="ca_en">Canada</a>
+    </div>
+  </td>
+						<td id="country-item">
+    <div>
+      <i class="sprite-sheet-flags sprite-flag sprite-flag-lu"></i>
+      <a href="/lu/fr/devices/ojprox476dn;jsessionid=A924545C43D03F6FD09AD240BECE8EE1"
+        id="lu_fr">Luxembourg</a>
+    </div>
+  </td>
+						<td id="country-item">
+    <div>
+      <i class="sprite-sheet-flags sprite-flag sprite-flag-si"></i>
+      <a href="/si/sl/devices/ojprox476dn;jsessionid=A924545C43D03F6FD09AD240BECE8EE1"
+        id="si_sl">Slovenija</a>
+    </div>
+  </td>
+						<td id="country-item">
+    <div>
+      <i class="sprite-sheet-flags sprite-flag sprite-flag-il"></i>
+      <a href="/il/he/devices/ojprox476dn;jsessionid=A924545C43D03F6FD09AD240BECE8EE1"
+        id="il_he">עברית</a>
+    </div>
+  </td>
+					</tr>
+					
+					<!-- Row 7 -->
+					<tr>
+						<td id="country-item">
+    <div>
+      <i class="sprite-sheet-flags sprite-flag sprite-flag-ca"></i>
+      <a href="/ca/fr/devices/ojprox476dn;jsessionid=A924545C43D03F6FD09AD240BECE8EE1"
+        id="ca_fr">Canada - Français</a>
+    </div>
+  </td>
+						<td id="country-item">
+    <div>
+      <i class="sprite-sheet-flags sprite-flag sprite-flag-hu"></i>
+      <a href="/hu/hu/devices/ojprox476dn;jsessionid=A924545C43D03F6FD09AD240BECE8EE1"
+        id="hu_hu">Magyarország</a>
+    </div>
+  </td>
+						<td id="country-item">
+    <div>
+      <i class="sprite-sheet-flags sprite-flag sprite-flag-sk"></i>
+      <a href="/sk/sk/devices/ojprox476dn;jsessionid=A924545C43D03F6FD09AD240BECE8EE1"
+        id="sk_sk">Slovensko</a>
+    </div>
+  </td>
+						<td id="country-item">
+    <div>
+      <i class="sprite-sheet-flags sprite-flag sprite-flag-ae"></i>
+      <a href="/ae/ar/devices/ojprox476dn;jsessionid=A924545C43D03F6FD09AD240BECE8EE1"
+        id="ae_ar">الشرق الأوسط</a>
+    </div>
+  </td>
+					</tr>
+					
+					<!-- Row 8 -->
+					<tr>
+						<td id="country-item">
+    <div>
+      <i class="sprite-sheet-flags sprite-flag sprite-flag-cz"></i>
+      <a href="/cz/cs/devices/ojprox476dn;jsessionid=A924545C43D03F6FD09AD240BECE8EE1"
+        id="cz_cs">Česká republika</a>
+    </div>
+  </td>
+						<td id="country-item">
+    <div>
+      <i class="sprite-sheet-flags sprite-flag sprite-flag-mt"></i>
+      <a href="/mt/en/devices/ojprox476dn;jsessionid=A924545C43D03F6FD09AD240BECE8EE1"
+        id="mt_en">Malta</a>
+    </div>
+  </td>
+						<td id="country-item">
+    <div>
+      <i class="sprite-sheet-flags sprite-flag sprite-flag-ch"></i>
+      <a href="/ch/fr/devices/ojprox476dn;jsessionid=A924545C43D03F6FD09AD240BECE8EE1"
+        id="ch_fr">Suisse</a>
+    </div>
+  </td>
+						<td id="country-item">
+    <div>
+      <i class="sprite-sheet-flags sprite-flag sprite-flag-sa"></i>
+      <a href="/sa/ar/devices/ojprox476dn;jsessionid=A924545C43D03F6FD09AD240BECE8EE1"
+        id="sa_ar">المملكة العربية السعودية</a>
+    </div>
+  </td>
+					</tr>
+					
+					<!-- Row 9 -->
+					<tr>
+						<td id="country-item">
+    <div>
+      <i class="sprite-sheet-flags sprite-flag sprite-flag-dk"></i>
+      <a href="/dk/da/devices/ojprox476dn;jsessionid=A924545C43D03F6FD09AD240BECE8EE1"
+        id="dk_da">Danmark</a>
+    </div>
+  </td>
+						<td id="country-item">
+    <div>
+      <i class="sprite-sheet-flags sprite-flag sprite-flag-mx"></i>
+      <a href="/mx/es/devices/ojprox476dn;jsessionid=A924545C43D03F6FD09AD240BECE8EE1"
+        id="mx_es">México</a>
+    </div>
+  </td>
+						<td id="country-item">
+    <div>
+      <i class="sprite-sheet-flags sprite-flag sprite-flag-fi"></i>
+      <a href="/fi/fi/devices/ojprox476dn;jsessionid=A924545C43D03F6FD09AD240BECE8EE1"
+        id="fi_fi">Suomi</a>
+    </div>
+  </td>
+						<td id="country-item">
+    <div>
+      <i class="sprite-sheet-flags sprite-flag sprite-flag-kr"></i>
+      <a href="/kr/ko/devices/ojprox476dn;jsessionid=A924545C43D03F6FD09AD240BECE8EE1"
+        id="kr_ko">한국</a>
+    </div>
+  </td>
+					</tr>
+					
+					<!-- Row 10 -->
+					<tr>
+						<td id="country-item">
+    <div>
+      <i class="sprite-sheet-flags sprite-flag sprite-flag-de"></i>
+      <a href="/de/de/devices/ojprox476dn;jsessionid=A924545C43D03F6FD09AD240BECE8EE1"
+        id="de_de">Deutschland</a>
+    </div>
+  </td>
+						<td id="country-item">
+    <div>
+      <i class="sprite-sheet-flags sprite-flag sprite-flag-nl"></i>
+      <a href="/nl/nl/devices/ojprox476dn;jsessionid=A924545C43D03F6FD09AD240BECE8EE1"
+        id="nl_nl">Nederland</a>
+    </div>
+  </td>
+						<td id="country-item">
+    <div>
+      <i class="sprite-sheet-flags sprite-flag sprite-flag-se"></i>
+      <a href="/se/sv/devices/ojprox476dn;jsessionid=A924545C43D03F6FD09AD240BECE8EE1"
+        id="se_sv">Sverige</a>
+    </div>
+  </td>
+						<td id="country-item">
+    <div>
+      <i class="sprite-sheet-flags sprite-flag sprite-flag-jp"></i>
+      <a href="/jp/ja/devices/ojprox476dn;jsessionid=A924545C43D03F6FD09AD240BECE8EE1"
+        id="jp_ja">日本</a>
+    </div>
+  </td>
+					</tr>
+						
+					<!-- Row 11 -->
+					<tr>
+						<td id="country-item">
+    <div>
+      <i class="sprite-sheet-flags sprite-flag sprite-flag-ee"></i>
+      <a href="/ee/et/devices/ojprox476dn;jsessionid=A924545C43D03F6FD09AD240BECE8EE1"
+        id="ee_et">Eesti</a>
+    </div>
+  </td>
+						<td id="country-item">
+    <div>
+      <i class="sprite-sheet-flags sprite-flag sprite-flag-nz"></i>
+      <a href="/nz/en/devices/ojprox476dn;jsessionid=A924545C43D03F6FD09AD240BECE8EE1"
+        id="nz_en">New Zealand</a>
+    </div>
+  </td>
+						<td id="country-item">
+    <div>
+      <i class="sprite-sheet-flags sprite-flag sprite-flag-ch"></i>
+      <a href="/ch/it/devices/ojprox476dn;jsessionid=A924545C43D03F6FD09AD240BECE8EE1"
+        id="ch_it">Svizzera</a>
+    </div>
+  </td>
+						<td id="country-item">
+    <div>
+      <i class="sprite-sheet-flags sprite-flag sprite-flag-cn"></i>
+      <a href="/cn/zh/devices/ojprox476dn;jsessionid=A924545C43D03F6FD09AD240BECE8EE1"
+        id="cn_zh">中国</a>
+    </div>
+  </td>
+					</tr>
+
+					<!-- Row 12 -->
+					<tr>
+						<td id="country-item">
+    <div>
+      <i class="sprite-sheet-flags sprite-flag sprite-flag-es"></i>
+      <a href="/es/es/devices/ojprox476dn;jsessionid=A924545C43D03F6FD09AD240BECE8EE1"
+        id="es_es">España</a>
+    </div>
+  </td>
+						<td id="country-item">
+    <div>
+      <i class="sprite-sheet-flags sprite-flag sprite-flag-no"></i>
+      <a href="/no/no/devices/ojprox476dn;jsessionid=A924545C43D03F6FD09AD240BECE8EE1"
+        id="no_no">Norge</a>
+    </div>
+  </td>
+						<td id="country-item">
+    <div>
+      <i class="sprite-sheet-flags sprite-flag sprite-flag-tr"></i>
+      <a href="/tr/tr/devices/ojprox476dn;jsessionid=A924545C43D03F6FD09AD240BECE8EE1"
+        id="tr_tr">Türkiye</a>
+    </div>
+  </td>
+						<td id="country-item">
+    <div>
+      <i class="sprite-sheet-flags sprite-flag sprite-flag-hk"></i>
+      <a href="/hk/zh/devices/ojprox476dn;jsessionid=A924545C43D03F6FD09AD240BECE8EE1"
+        id="hk_zh">香港</a>
+    </div>
+  </td>
+					</tr>
+					<!-- Row 13 -->
+					<tr>
+						<td id="country-item">
+    <div>
+      <i class="sprite-sheet-flags sprite-flag sprite-flag-fr"></i>
+      <a href="/fr/fr/devices/ojprox476dn;jsessionid=A924545C43D03F6FD09AD240BECE8EE1"
+        id="fr_fr">France</a>
+    </div>
+  </td>
+						<td id="country-item">
+    <div>
+      <i class="sprite-sheet-flags sprite-flag sprite-flag-hr"></i>
+      <a href="/hr/hr/devices/ojprox476dn;jsessionid=A924545C43D03F6FD09AD240BECE8EE1"
+        id="hr_hr">Hrvatska</a>
+    </div>
+  </td>
+						<td id="country-item">
+    <div>
+      <i class="sprite-sheet-flags sprite-flag sprite-flag-gb"></i>
+      <a href="/gb/en/devices/ojprox476dn;jsessionid=A924545C43D03F6FD09AD240BECE8EE1"
+        id="gb_en">United Kingdom</a>
+    </div>
+  </td>
+						<td id="country-item">
+    <div>
+      <i class="sprite-sheet-flags sprite-flag sprite-flag-tw"></i>
+      <a href="/tw/zh/devices/ojprox476dn;jsessionid=A924545C43D03F6FD09AD240BECE8EE1"
+        id="tw_zh">臺灣地區</a>
+    </div>
+  </td>
+					</tr>
+				</table>
+			</div>
+		</div>
+	</div>
+      </div>
+    </div>
+  </div>
+            <div id="country-selector-overlay-container">
+		<div id="country-selector-overlay"
+			class="country-selector-overlay-content">
+			<div class="overlay-header">
+				<div class="overlay-header-text">Select a location and language</div>
+				<button type="button" id="closeButton" class="close icon"
+					data-dismiss="modal" aria-label="Close"></button>
+			</div>
+			<div class="overlay-divider"></div>
+			<div id="country-selector-table">
+				<div id="supported-countries">
+		<div>
+			<div>
+				<table>
+
+					<!-- Row 1 -->
+					<tr>
+						<td id="country-item">
+    <div>
+      <i class="sprite-sheet-flags sprite-flag sprite-flag-au"></i>
+      <a href="/au/en/devices/ojprox476dn;jsessionid=A924545C43D03F6FD09AD240BECE8EE1"
+        id="au_en">Australia</a>
+    </div>
+  </td>
+						<td id="country-item">
+    <div>
+      <i class="sprite-sheet-flags sprite-flag sprite-flag-in"></i>
+      <a href="/in/en/devices/ojprox476dn;jsessionid=A924545C43D03F6FD09AD240BECE8EE1"
+        id="in_en">India</a>
+    </div>
+  </td>
+						<td id="country-item">
+    <div>
+      <i class="sprite-sheet-flags sprite-flag sprite-flag-pl"></i>
+      <a href="/pl/pl/devices/ojprox476dn;jsessionid=A924545C43D03F6FD09AD240BECE8EE1"
+        id="pl_pl">Polska</a>
+    </div>
+  </td>
+						<td id="country-item">
+    <div>
+      <i class="sprite-sheet-flags sprite-flag sprite-flag-us"></i>
+      <a href="/us/en/devices/ojprox476dn;jsessionid=A924545C43D03F6FD09AD240BECE8EE1"
+        id="us_en">United States</a>
+    </div>
+  </td>
+					</tr>
+					
+					<!-- Row 2 -->
+					<tr>
+						<td id="country-item">
+    <div>
+      <i class="sprite-sheet-flags sprite-flag sprite-flag-at"></i>
+      <a href="/at/de/devices/ojprox476dn;jsessionid=A924545C43D03F6FD09AD240BECE8EE1"
+        id="at_de">Austria</a>
+    </div>
+  </td>
+						<td id="country-item">
+    <div>
+      <i class="sprite-sheet-flags sprite-flag sprite-flag-ie"></i>
+      <a href="/ie/en/devices/ojprox476dn;jsessionid=A924545C43D03F6FD09AD240BECE8EE1"
+        id="ie_en">Ireland</a>
+    </div>
+  </td>
+						<td id="country-item">
+    <div>
+      <i class="sprite-sheet-flags sprite-flag sprite-flag-pt"></i>
+      <a href="/pt/pt/devices/ojprox476dn;jsessionid=A924545C43D03F6FD09AD240BECE8EE1"
+        id="pt_pt">Portugal</a>
+    </div>
+  </td>
+						<td id="country-item">
+    <div>
+      <i class="sprite-sheet-flags sprite-flag sprite-flag-bg"></i>
+      <a href="/bg/bg/devices/ojprox476dn;jsessionid=A924545C43D03F6FD09AD240BECE8EE1"
+        id="bg_bg">България</a>
+    </div>
+  </td>
+					</tr>
+					
+					<!-- Row 3 -->
+					<tr>
+						<td id="country-item">
+    <div>
+      <i class="sprite-sheet-flags sprite-flag sprite-flag-be"></i>
+      <a href="/be/nl/devices/ojprox476dn;jsessionid=A924545C43D03F6FD09AD240BECE8EE1"
+        id="be_nl">België</a>
+    </div>
+  </td>
+						<td id="country-item">
+    <div>
+      <i class="sprite-sheet-flags sprite-flag sprite-flag-it"></i>
+      <a href="/it/it/devices/ojprox476dn;jsessionid=A924545C43D03F6FD09AD240BECE8EE1"
+        id="it_it">Italia</a>
+    </div>
+  </td>
+						<td id="country-item">
+    <div>
+      <i class="sprite-sheet-flags sprite-flag sprite-flag-pr"></i>
+      <a href="/pr/en/devices/ojprox476dn;jsessionid=A924545C43D03F6FD09AD240BECE8EE1"
+        id="pr_en">Puerto Rico</a>
+    </div>
+  </td>
+						<td id="country-item">
+    <div>
+      <i class="sprite-sheet-flags sprite-flag sprite-flag-gr"></i>
+      <a href="/gr/el/devices/ojprox476dn;jsessionid=A924545C43D03F6FD09AD240BECE8EE1"
+        id="gr_el">Ελλάδα</a>
+    </div>
+  </td>
+					</tr>
+					
+					<!-- Row 4 -->
+					<tr>
+						<td id="country-item">
+    <div>
+      <i class="sprite-sheet-flags sprite-flag sprite-flag-be"></i>
+      <a href="/be/fr/devices/ojprox476dn;jsessionid=A924545C43D03F6FD09AD240BECE8EE1"
+        id="be_fr">Belgique</a>
+    </div>
+  </td>
+						<td id="country-item">
+    <div>
+      <i class="sprite-sheet-flags sprite-flag sprite-flag-lv"></i>
+      <a href="/lv/lv/devices/ojprox476dn;jsessionid=A924545C43D03F6FD09AD240BECE8EE1"
+        id="lv_lv">Latvija</a>
+    </div>
+  </td>
+						<td id="country-item">
+    <div>
+      <i class="sprite-sheet-flags sprite-flag sprite-flag-ro"></i>
+      <a href="/ro/ro/devices/ojprox476dn;jsessionid=A924545C43D03F6FD09AD240BECE8EE1"
+        id="ro_ro">România</a>
+    </div>
+  </td>
+						<td id="country-item">
+    <div>
+      <i class="sprite-sheet-flags sprite-flag sprite-flag-cy"></i>
+      <a href="/cy/el/devices/ojprox476dn;jsessionid=A924545C43D03F6FD09AD240BECE8EE1"
+        id="cy_el">Κύπρος</a>
+    </div>
+  </td>
+					</tr>
+					
+					<!-- Row 5 -->
+					<tr>
+						<td id="country-item">
+    <div>
+      <i class="sprite-sheet-flags sprite-flag sprite-flag-br"></i>
+      <a href="/br/pt/devices/ojprox476dn;jsessionid=A924545C43D03F6FD09AD240BECE8EE1"
+        id="br_pt">Brasil</a>
+    </div>
+  </td>
+						<td id="country-item">
+    <div>
+      <i class="sprite-sheet-flags sprite-flag sprite-flag-lt"></i>
+      <a href="/lt/lt/devices/ojprox476dn;jsessionid=A924545C43D03F6FD09AD240BECE8EE1"
+        id="lt_lt">Lietuva</a>
+    </div>
+  </td>
+						<td id="country-item">
+    <div>
+      <i class="sprite-sheet-flags sprite-flag sprite-flag-ch"></i>
+      <a href="/ch/de/devices/ojprox476dn;jsessionid=A924545C43D03F6FD09AD240BECE8EE1"
+        id="ch_de">Schweiz</a>
+    </div>
+  </td>
+						<td id="country-item">
+    <div>
+      <i class="sprite-sheet-flags sprite-flag sprite-flag-ru"></i>
+      <a href="/ru/ru/devices/ojprox476dn;jsessionid=A924545C43D03F6FD09AD240BECE8EE1"
+        id="ru_ru">Россия</a>
+    </div>
+  </td>
+					</tr>
+						
+					<!-- Row 6 -->
+					<tr>
+						<td id="country-item">
+    <div>
+      <i class="sprite-sheet-flags sprite-flag sprite-flag-ca"></i>
+      <a href="/ca/en/devices/ojprox476dn;jsessionid=A924545C43D03F6FD09AD240BECE8EE1"
+        id="ca_en">Canada</a>
+    </div>
+  </td>
+						<td id="country-item">
+    <div>
+      <i class="sprite-sheet-flags sprite-flag sprite-flag-lu"></i>
+      <a href="/lu/fr/devices/ojprox476dn;jsessionid=A924545C43D03F6FD09AD240BECE8EE1"
+        id="lu_fr">Luxembourg</a>
+    </div>
+  </td>
+						<td id="country-item">
+    <div>
+      <i class="sprite-sheet-flags sprite-flag sprite-flag-si"></i>
+      <a href="/si/sl/devices/ojprox476dn;jsessionid=A924545C43D03F6FD09AD240BECE8EE1"
+        id="si_sl">Slovenija</a>
+    </div>
+  </td>
+						<td id="country-item">
+    <div>
+      <i class="sprite-sheet-flags sprite-flag sprite-flag-il"></i>
+      <a href="/il/he/devices/ojprox476dn;jsessionid=A924545C43D03F6FD09AD240BECE8EE1"
+        id="il_he">עברית</a>
+    </div>
+  </td>
+					</tr>
+					
+					<!-- Row 7 -->
+					<tr>
+						<td id="country-item">
+    <div>
+      <i class="sprite-sheet-flags sprite-flag sprite-flag-ca"></i>
+      <a href="/ca/fr/devices/ojprox476dn;jsessionid=A924545C43D03F6FD09AD240BECE8EE1"
+        id="ca_fr">Canada - Français</a>
+    </div>
+  </td>
+						<td id="country-item">
+    <div>
+      <i class="sprite-sheet-flags sprite-flag sprite-flag-hu"></i>
+      <a href="/hu/hu/devices/ojprox476dn;jsessionid=A924545C43D03F6FD09AD240BECE8EE1"
+        id="hu_hu">Magyarország</a>
+    </div>
+  </td>
+						<td id="country-item">
+    <div>
+      <i class="sprite-sheet-flags sprite-flag sprite-flag-sk"></i>
+      <a href="/sk/sk/devices/ojprox476dn;jsessionid=A924545C43D03F6FD09AD240BECE8EE1"
+        id="sk_sk">Slovensko</a>
+    </div>
+  </td>
+						<td id="country-item">
+    <div>
+      <i class="sprite-sheet-flags sprite-flag sprite-flag-ae"></i>
+      <a href="/ae/ar/devices/ojprox476dn;jsessionid=A924545C43D03F6FD09AD240BECE8EE1"
+        id="ae_ar">الشرق الأوسط</a>
+    </div>
+  </td>
+					</tr>
+					
+					<!-- Row 8 -->
+					<tr>
+						<td id="country-item">
+    <div>
+      <i class="sprite-sheet-flags sprite-flag sprite-flag-cz"></i>
+      <a href="/cz/cs/devices/ojprox476dn;jsessionid=A924545C43D03F6FD09AD240BECE8EE1"
+        id="cz_cs">Česká republika</a>
+    </div>
+  </td>
+						<td id="country-item">
+    <div>
+      <i class="sprite-sheet-flags sprite-flag sprite-flag-mt"></i>
+      <a href="/mt/en/devices/ojprox476dn;jsessionid=A924545C43D03F6FD09AD240BECE8EE1"
+        id="mt_en">Malta</a>
+    </div>
+  </td>
+						<td id="country-item">
+    <div>
+      <i class="sprite-sheet-flags sprite-flag sprite-flag-ch"></i>
+      <a href="/ch/fr/devices/ojprox476dn;jsessionid=A924545C43D03F6FD09AD240BECE8EE1"
+        id="ch_fr">Suisse</a>
+    </div>
+  </td>
+						<td id="country-item">
+    <div>
+      <i class="sprite-sheet-flags sprite-flag sprite-flag-sa"></i>
+      <a href="/sa/ar/devices/ojprox476dn;jsessionid=A924545C43D03F6FD09AD240BECE8EE1"
+        id="sa_ar">المملكة العربية السعودية</a>
+    </div>
+  </td>
+					</tr>
+					
+					<!-- Row 9 -->
+					<tr>
+						<td id="country-item">
+    <div>
+      <i class="sprite-sheet-flags sprite-flag sprite-flag-dk"></i>
+      <a href="/dk/da/devices/ojprox476dn;jsessionid=A924545C43D03F6FD09AD240BECE8EE1"
+        id="dk_da">Danmark</a>
+    </div>
+  </td>
+						<td id="country-item">
+    <div>
+      <i class="sprite-sheet-flags sprite-flag sprite-flag-mx"></i>
+      <a href="/mx/es/devices/ojprox476dn;jsessionid=A924545C43D03F6FD09AD240BECE8EE1"
+        id="mx_es">México</a>
+    </div>
+  </td>
+						<td id="country-item">
+    <div>
+      <i class="sprite-sheet-flags sprite-flag sprite-flag-fi"></i>
+      <a href="/fi/fi/devices/ojprox476dn;jsessionid=A924545C43D03F6FD09AD240BECE8EE1"
+        id="fi_fi">Suomi</a>
+    </div>
+  </td>
+						<td id="country-item">
+    <div>
+      <i class="sprite-sheet-flags sprite-flag sprite-flag-kr"></i>
+      <a href="/kr/ko/devices/ojprox476dn;jsessionid=A924545C43D03F6FD09AD240BECE8EE1"
+        id="kr_ko">한국</a>
+    </div>
+  </td>
+					</tr>
+					
+					<!-- Row 10 -->
+					<tr>
+						<td id="country-item">
+    <div>
+      <i class="sprite-sheet-flags sprite-flag sprite-flag-de"></i>
+      <a href="/de/de/devices/ojprox476dn;jsessionid=A924545C43D03F6FD09AD240BECE8EE1"
+        id="de_de">Deutschland</a>
+    </div>
+  </td>
+						<td id="country-item">
+    <div>
+      <i class="sprite-sheet-flags sprite-flag sprite-flag-nl"></i>
+      <a href="/nl/nl/devices/ojprox476dn;jsessionid=A924545C43D03F6FD09AD240BECE8EE1"
+        id="nl_nl">Nederland</a>
+    </div>
+  </td>
+						<td id="country-item">
+    <div>
+      <i class="sprite-sheet-flags sprite-flag sprite-flag-se"></i>
+      <a href="/se/sv/devices/ojprox476dn;jsessionid=A924545C43D03F6FD09AD240BECE8EE1"
+        id="se_sv">Sverige</a>
+    </div>
+  </td>
+						<td id="country-item">
+    <div>
+      <i class="sprite-sheet-flags sprite-flag sprite-flag-jp"></i>
+      <a href="/jp/ja/devices/ojprox476dn;jsessionid=A924545C43D03F6FD09AD240BECE8EE1"
+        id="jp_ja">日本</a>
+    </div>
+  </td>
+					</tr>
+						
+					<!-- Row 11 -->
+					<tr>
+						<td id="country-item">
+    <div>
+      <i class="sprite-sheet-flags sprite-flag sprite-flag-ee"></i>
+      <a href="/ee/et/devices/ojprox476dn;jsessionid=A924545C43D03F6FD09AD240BECE8EE1"
+        id="ee_et">Eesti</a>
+    </div>
+  </td>
+						<td id="country-item">
+    <div>
+      <i class="sprite-sheet-flags sprite-flag sprite-flag-nz"></i>
+      <a href="/nz/en/devices/ojprox476dn;jsessionid=A924545C43D03F6FD09AD240BECE8EE1"
+        id="nz_en">New Zealand</a>
+    </div>
+  </td>
+						<td id="country-item">
+    <div>
+      <i class="sprite-sheet-flags sprite-flag sprite-flag-ch"></i>
+      <a href="/ch/it/devices/ojprox476dn;jsessionid=A924545C43D03F6FD09AD240BECE8EE1"
+        id="ch_it">Svizzera</a>
+    </div>
+  </td>
+						<td id="country-item">
+    <div>
+      <i class="sprite-sheet-flags sprite-flag sprite-flag-cn"></i>
+      <a href="/cn/zh/devices/ojprox476dn;jsessionid=A924545C43D03F6FD09AD240BECE8EE1"
+        id="cn_zh">中国</a>
+    </div>
+  </td>
+					</tr>
+
+					<!-- Row 12 -->
+					<tr>
+						<td id="country-item">
+    <div>
+      <i class="sprite-sheet-flags sprite-flag sprite-flag-es"></i>
+      <a href="/es/es/devices/ojprox476dn;jsessionid=A924545C43D03F6FD09AD240BECE8EE1"
+        id="es_es">España</a>
+    </div>
+  </td>
+						<td id="country-item">
+    <div>
+      <i class="sprite-sheet-flags sprite-flag sprite-flag-no"></i>
+      <a href="/no/no/devices/ojprox476dn;jsessionid=A924545C43D03F6FD09AD240BECE8EE1"
+        id="no_no">Norge</a>
+    </div>
+  </td>
+						<td id="country-item">
+    <div>
+      <i class="sprite-sheet-flags sprite-flag sprite-flag-tr"></i>
+      <a href="/tr/tr/devices/ojprox476dn;jsessionid=A924545C43D03F6FD09AD240BECE8EE1"
+        id="tr_tr">Türkiye</a>
+    </div>
+  </td>
+						<td id="country-item">
+    <div>
+      <i class="sprite-sheet-flags sprite-flag sprite-flag-hk"></i>
+      <a href="/hk/zh/devices/ojprox476dn;jsessionid=A924545C43D03F6FD09AD240BECE8EE1"
+        id="hk_zh">香港</a>
+    </div>
+  </td>
+					</tr>
+					<!-- Row 13 -->
+					<tr>
+						<td id="country-item">
+    <div>
+      <i class="sprite-sheet-flags sprite-flag sprite-flag-fr"></i>
+      <a href="/fr/fr/devices/ojprox476dn;jsessionid=A924545C43D03F6FD09AD240BECE8EE1"
+        id="fr_fr">France</a>
+    </div>
+  </td>
+						<td id="country-item">
+    <div>
+      <i class="sprite-sheet-flags sprite-flag sprite-flag-hr"></i>
+      <a href="/hr/hr/devices/ojprox476dn;jsessionid=A924545C43D03F6FD09AD240BECE8EE1"
+        id="hr_hr">Hrvatska</a>
+    </div>
+  </td>
+						<td id="country-item">
+    <div>
+      <i class="sprite-sheet-flags sprite-flag sprite-flag-gb"></i>
+      <a href="/gb/en/devices/ojprox476dn;jsessionid=A924545C43D03F6FD09AD240BECE8EE1"
+        id="gb_en">United Kingdom</a>
+    </div>
+  </td>
+						<td id="country-item">
+    <div>
+      <i class="sprite-sheet-flags sprite-flag sprite-flag-tw"></i>
+      <a href="/tw/zh/devices/ojprox476dn;jsessionid=A924545C43D03F6FD09AD240BECE8EE1"
+        id="tw_zh">臺灣地區</a>
+    </div>
+  </td>
+					</tr>
+				</table>
+			</div>
+		</div>
+	</div>
+			</div>
+		</div>
+	</div>
+        </div>
+    </div>
+</main>
+<footer class="footer" id="footer"></footer>
+</body>
+</html>
